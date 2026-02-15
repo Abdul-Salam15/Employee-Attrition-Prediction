@@ -114,9 +114,4 @@ Run all cells to reproduce the analysis and model output.
 - Add feature-importance/explainability (e.g., SHAP).
 - Export model and create a simple API or dashboard for inference.
 
-## License
 
-No license file is currently included. Add a `LICENSE` file if you plan to distribute this project publicly.
- 
-EOF
-)
